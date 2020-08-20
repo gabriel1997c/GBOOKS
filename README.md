@@ -1,6 +1,6 @@
 <h2 align="center"><strong>(G)B-OOKS, a Flask-based web app for book recommendations</strong></h2>
 
-> <strong>Closed-source web app developed with Flask </strong>for book lovers, which helps provide new lecture recommendations generated with the help of a Machine Learning based recommender system.
+> <strong>Closed-source web app developed with Flask </strong>, meant for book lovers, which helps provide new lecture recommendations generated with the help of a Machine Learning based hybrid recommendation system.
 Users can create their own shelves(lists) of books, like certain books and get recommendations based on those or find other readers with similar libraries.
 
 ## Landing Page
